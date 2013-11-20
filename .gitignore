@@ -1,0 +1,4 @@
+platforms/*
+*.exe
+*.sublime-project
+*.sublime-workspace
